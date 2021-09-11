@@ -8,7 +8,7 @@ public class DivisibleOf5 {
 		for (int i = 0; i < num.length; i++)
 			if (num[i] % 5 == 0) {
 
-				System.out.println("Division of is  =" +num[ i]);
+				System.out.println("Division of 5 is  =" +num[ i]);
 
 			}
 
