@@ -8,7 +8,7 @@ public class oddNumber {
 			if(num[i]%2!=0)
 		{
 		 
-		 System.out.println("even number is ="+ num[i]);
+		 System.out.println("odd number is ="+ num[i]);
 		
 		}
 
