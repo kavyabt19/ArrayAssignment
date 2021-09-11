@@ -9,7 +9,7 @@ public class OddIndexNumber {
 			if (num[i] % 2!= 0) 
 			{
 
-				System.out.println("odd number is =" + i);
+				System.out.println("odd index number is =" + i);
 
 			}
 
