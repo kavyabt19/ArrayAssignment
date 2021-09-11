@@ -7,7 +7,7 @@ public class EvenIndexNumber {
 		for (int i = 0; i < num.length; i++)
 			if (num[i] % 2 == 0) {
 
-				System.out.println("even number is =" + i);
+				System.out.println("Even Index Number is =" + i);
 
 			}
 
